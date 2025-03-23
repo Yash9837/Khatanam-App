@@ -6,12 +6,12 @@
 
 
 
-# Introduction**
+# Introduction
 
 ***Kathanam provides an intuitive learning platform for those wanting to master sign language. Through interactive courses, real-time translation tools, and engaging features, users can learn at their own pace and customize their learning journey. Whether you're a beginner or looking to enhance your skills, Kathanam has the right tools for you.***
 
 
-# Features**
+# Features 
 
 # Feature 1: Home Screen - Courses Available
 The Home Screen is designed to give users quick access to available courses and interactive learning tools. Here, users can choose from various sign language courses, which include:
