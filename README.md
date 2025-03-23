@@ -1,6 +1,6 @@
 # Kathanam - Sign Language Learning & Communication App
 
-***Kathanam is an interactive and inclusive platform designed to help individuals who are deaf, mute, or neurodiverse learn and communicate through sign language. The app features real-time translation, engaging learning tools, and personalized experiences, providing users with the opportunity to learn sign language in a fun and accessible way.***
+Kathanam is an interactive and inclusive platform designed to help individuals who are deaf, mute, or neurodiverse learn and communicate through sign language. The app features real-time translation, engaging learning tools, and personalized experiences, providing users with the opportunity to learn sign language in a fun and accessible way.
 
 <img width="762" alt="Screenshot 2025-03-23 at 3 22 02 PM" src="https://github.com/user-attachments/assets/72959c51-ca2f-4b21-919a-51aa9a160f94" />
 
@@ -8,7 +8,7 @@
 
 # Introduction
 
-***Kathanam provides an intuitive learning platform for those wanting to master sign language. Through interactive courses, real-time translation tools, and engaging features, users can learn at their own pace and customize their learning journey. Whether you're a beginner or looking to enhance your skills, Kathanam has the right tools for you.***
+Kathanam provides an intuitive learning platform for those wanting to master sign language. Through interactive courses, real-time translation tools, and engaging features, users can learn at their own pace and customize their learning journey. Whether you're a beginner or looking to enhance your skills, Kathanam has the right tools for you. 
 
 
 # Features 
